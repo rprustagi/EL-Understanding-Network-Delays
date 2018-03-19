@@ -3,6 +3,10 @@ Exercises to understand various components of network delays.
 Two programs are described here. One is client side and other is
 server side.
 
+## ACCS-EL-Understanding-Network-Delays.pdf\
+The PDF version of the article as appeared in ACCS Magazine
+"Advanced Communications and Computing", Vol 01, Issue 03.
+
 **client.py**\
 This python program connects to UDP server 10.1.1.1 on port 9997.
 For your setup, change these values accordingly.
